@@ -35,7 +35,7 @@ namespace _8._1._2_Automobil
         }
         public double UkupnaCijena()
         {
-            return OsnovnaCijena + IznosPoreza();        
+            return OsnovnaCijena + IznosPoreza();         
         }
 
     }
