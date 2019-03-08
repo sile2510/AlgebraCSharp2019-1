@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.1_proizvod", "8.1.1_pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.2_Automobil", "8.1.2_Automobil\8.1.2_Automobil.csproj", "{5D2283E7-6504-4D16-8731-5AAB0A07B957}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2.2.1_klucna_rijec_ref", "8.2.2.1_klucna_rijec_ref\8.2.2.1_klucna_rijec_ref.csproj", "{ADA4A867-9C30-4C33-95FC-B3C4B23A9B4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -215,6 +217,10 @@ Global
 		{5D2283E7-6504-4D16-8731-5AAB0A07B957}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D2283E7-6504-4D16-8731-5AAB0A07B957}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D2283E7-6504-4D16-8731-5AAB0A07B957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA4A867-9C30-4C33-95FC-B3C4B23A9B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA4A867-9C30-4C33-95FC-B3C4B23A9B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA4A867-9C30-4C33-95FC-B3C4B23A9B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA4A867-9C30-4C33-95FC-B3C4B23A9B4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -250,6 +256,7 @@ Global
 		{88D869F4-2AD0-457B-953C-9F734C301A7D} = {80FCFA57-B002-4FC0-8B09-5324E882E9D2}
 		{72ACAA1E-3E4E-4B30-9FBD-FB41738DC930} = {80FCFA57-B002-4FC0-8B09-5324E882E9D2}
 		{5D2283E7-6504-4D16-8731-5AAB0A07B957} = {80FCFA57-B002-4FC0-8B09-5324E882E9D2}
+		{ADA4A867-9C30-4C33-95FC-B3C4B23A9B4E} = {80FCFA57-B002-4FC0-8B09-5324E882E9D2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
