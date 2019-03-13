@@ -85,6 +85,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2.2.1_klucna_rijec_ref", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.2.2.2_klucna_rijec_out", "8.2.2.2_klucna_rijec_out\8.2.2.2_klucna_rijec_out.csproj", "{B72BDF17-83BB-488C-809A-BFDA5503B916}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8.5_dogadjaji", "8.5_dogadjaji", "{110A3B7C-93A8-417E-91B8-F275E0E0448D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.5.1_dogadjaji_primjer", "8.5.1_dogadjaji_primjer\8.5.1_dogadjaji_primjer.csproj", "{ABF19B7F-4352-498C-8907-E417F2F40681}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -227,6 +231,10 @@ Global
 		{B72BDF17-83BB-488C-809A-BFDA5503B916}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B72BDF17-83BB-488C-809A-BFDA5503B916}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B72BDF17-83BB-488C-809A-BFDA5503B916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF19B7F-4352-498C-8907-E417F2F40681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF19B7F-4352-498C-8907-E417F2F40681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF19B7F-4352-498C-8907-E417F2F40681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF19B7F-4352-498C-8907-E417F2F40681}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -264,6 +272,7 @@ Global
 		{5D2283E7-6504-4D16-8731-5AAB0A07B957} = {80FCFA57-B002-4FC0-8B09-5324E882E9D2}
 		{ADA4A867-9C30-4C33-95FC-B3C4B23A9B4E} = {80FCFA57-B002-4FC0-8B09-5324E882E9D2}
 		{B72BDF17-83BB-488C-809A-BFDA5503B916} = {80FCFA57-B002-4FC0-8B09-5324E882E9D2}
+		{ABF19B7F-4352-498C-8907-E417F2F40681} = {110A3B7C-93A8-417E-91B8-F275E0E0448D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {75EC4551-BDDA-44DC-B093-1C3F4BA400C8}
