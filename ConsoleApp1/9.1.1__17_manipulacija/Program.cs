@@ -42,6 +42,8 @@ namespace _9._1._1__17_manipulacija
             Console.WriteLine("9.1.2. rijec u recenici");
             Console.WriteLine("Rijec {0} pojavljuje se u recenici {1} {2} puta", rijec, recenica, brojac);
 
+            
+
 
 
             Console.ReadKey();
