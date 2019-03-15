@@ -12,7 +12,7 @@ namespace obrnuto
         {
             int a;
             string str, obrnuto = "";
-            Console.WriteLine("Unesi tekst: ");
+            Console.WriteLine("Unesi broj: ");
             str = Console.ReadLine();
 
             a = str.Length - 1;
@@ -22,7 +22,7 @@ namespace obrnuto
                 obrnuto += str[a];
                 a--;
             }
-            Console.WriteLine("Obrnuti teks je: \n{0}", obrnuto);
+            Console.WriteLine("Obrnuti broj je: \n{0}", obrnuto);
             Console.ReadLine();
         }
     }
