@@ -121,7 +121,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak_1_unos_prirodnog_br
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak_2_unos_rijeci", "zadatak_2_unos_rijeci\zadatak_2_unos_rijeci.csproj", "{3A6C0055-39FD-4ACD-8F21-6EB1A04283B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_klasa_automobil", "3_klasa_automobil\3_klasa_automobil.csproj", "{6D284F75-B062-4BC6-A61D-5D11AB44BBB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatak_3_klasa_automobil", "3_klasa_automobil\zadatak_3_klasa_automobil.csproj", "{6D284F75-B062-4BC6-A61D-5D11AB44BBB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
